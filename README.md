@@ -1,6 +1,8 @@
 # ur.ers
 Elliott, Rothenberg and Stock Unit Root Test Use ur.ers (urca) With (In) R Software
 
+https://www.youtube.com/watch?v=J0QOS0Pd1DA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
